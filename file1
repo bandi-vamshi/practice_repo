@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a practice file under practice folder
 -- FYI
 File two has another line added.
@@ -6,3 +7,7 @@ File two has another line added.
 this is how it is works
 
 Hey there this is the second day that we are working on
+=======
+hey this is the code for the feature branch
+working as expected
+>>>>>>> feature1
